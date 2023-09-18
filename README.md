@@ -3,7 +3,7 @@
 ## Highlights
 - 💻 I like programming in Java, C++, C, and Python.
 - 🎓 Currently studying for a degree in Computer Science.
-- 🌐 Exploring machine learning at the moment.
+- 🌐 Exploring NULL at the moment.
 - 🌟 Algorithms and problem-solving are also a nice thing.
 
 
