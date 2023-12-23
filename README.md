@@ -3,7 +3,7 @@
 ## Highlights
 - 💻 I like programming in Java, C++, C, and Python.
 - 🎓 Currently studying for a degree in Computer Science.
-- 🌐 Exploring Socket Programming at the moment.
+- 🌐 Exploring WinAPI at the moment.
 - 🌟 Algorithms and problem-solving are also a nice thing.
 
 
