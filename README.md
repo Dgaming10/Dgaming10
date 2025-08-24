@@ -1,4 +1,4 @@
-### Hi, I'm Daniel, 18 years old.
+### Hi, I'm Daniel, 19 years old.
 
 ## Highlights
 - 💻 I like programming in Python, C++, C, and Java.
